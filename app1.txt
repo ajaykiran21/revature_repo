@@ -1,3 +1,7 @@
 "Text" 
+<<<<<<< HEAD
 hi hello
 my name is prasanth
+=======
+"hello"
+>>>>>>> ebcc57171f22bff747ad9b50f89325d713d0a763
